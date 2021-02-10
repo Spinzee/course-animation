@@ -1,14 +1,14 @@
 This project uses the following items from Poly (http://poly.google.com):
 
-Title: Crown
+Title: Cloud
 Author: Poly by Google
-URL: https://poly.google.com/view/0seQ0mn72s5
+URL: https://poly.google.com/view/44cGXp6_8WD
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
 
 Title: Crown
 Author: Poly by Google
-URL: https://poly.google.com/view/aIW687xg5M4
+URL: https://poly.google.com/view/0seQ0mn72s5
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
 
