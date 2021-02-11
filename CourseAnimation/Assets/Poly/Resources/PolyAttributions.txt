@@ -1,5 +1,11 @@
 This project uses the following items from Poly (http://poly.google.com):
 
+Title: Camera
+Author: Gabriel Valdivia
+URL: https://poly.google.com/view/eAoNPV5bfmK
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
 Title: Cloud
 Author: Poly by Google
 URL: https://poly.google.com/view/44cGXp6_8WD
@@ -15,5 +21,11 @@ https://creativecommons.org/licenses/by/3.0/legalcode
 Title: Laptop
 Author: Poly by Google
 URL: https://poly.google.com/view/fEYeMIiRNHM
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: RLab-Arrow
+Author: Samuel Lee
+URL: https://poly.google.com/view/bPnraX-6zV6
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
