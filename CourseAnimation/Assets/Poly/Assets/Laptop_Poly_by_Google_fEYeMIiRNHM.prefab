@@ -88,7 +88,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4149137493242010421}
-  - component: {fileID: 880848674351962443}
   m_Layer: 0
   m_Name: Laptop_Poly_by_Google_fEYeMIiRNHM
   m_TagString: Untagged
@@ -111,19 +110,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &880848674351962443
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1514965726668026533}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec0c7f9abd0af2840a99d45af7227d62, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  asset: {fileID: 11400000, guid: 4f2226d601d27a846a560f7aa1a0a49e, type: 2}
 --- !u!1 &3179193160392645308
 GameObject:
   m_ObjectHideFlags: 0
